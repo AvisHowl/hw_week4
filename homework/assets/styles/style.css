@@ -1,0 +1,79 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logoMiro {
+    margin: 20px;
+}
+
+h1 {
+    width: 285px;
+    height: 168px;
+    font-size: 48px;
+    letter-spacing: 0.02em;
+    color: #050038;
+}
+
+.buttonReg {
+    border: 1px solid #4262ff;
+    border-radius: 24px;
+    width: 157px;
+    height: 50px;
+    background: #4262ff;
+    color: #fff;
+}
+
+#userEmail {
+    border: 1px solid #9b99af;
+    border-radius: 32px;
+    width: 440px;
+    height: 48px;
+}
+
+.buttonBegin {
+    border: 1px solid #4262ff;
+    border-radius: 32px;
+    width: 440px;
+    height: 51px;
+    background: #4262ff;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    color: #fff;
+}
+
+#screenshotMiro {
+    width: 700px;
+    height: 517px;
+}
+
+#screenshotMiro2 {
+    width: 700px;
+    height: 517px;
+}
+
+.buttonSignup {
+    border: 1px solid #4262ff;
+    border-radius: 32px;
+    width: 251px;
+    height: 48px;
+    background: #4262ff;
+    font-size: 18px;
+    line-height: 133%;
+    text-align: center;
+    color: #fff;
+}
+
+a:link {
+color: #4262ff;
+}
+
+a:visited {
+    color: #3c3c3c99;
+}
+
+a:hover {
+    color: #58ab4f;
+}
